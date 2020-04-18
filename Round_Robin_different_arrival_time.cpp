@@ -1,3 +1,6 @@
+//  Name: Mahiransh Sharma
+//  Linkedin: https://www.linkedin.com/in/mahiransh-sharma-78267b166/
+
 #include<iostream> 
 using namespace std;
  
@@ -53,3 +56,7 @@ int main()
   
   return 0; 
 }
+
+
+//  Name: Mahiransh Sharma
+//  Linkedin: https://www.linkedin.com/in/mahiransh-sharma-78267b166/
